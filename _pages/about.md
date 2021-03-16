@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Charlotte Viner"
+title: "Online Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
