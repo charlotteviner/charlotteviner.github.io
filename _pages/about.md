@@ -8,7 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+After graduating with a BSc in Environmental Geoscience from the University of Nottingham in 2017, I studied for a MSc in River Basin Dynamics and Management with Geographical Information Systems at the University of Leeds before returning to Nottingham to start my PhD in 2019.
+
+My research interests focus on fluvial geomorphology and ecology. My undergraduate dissertation assessed the role of underlying bedrock geology in determining geomorphological characteristics of two Peak District rivers, while my MSc dissertation investigated the impact of the invasive signal crayfish (*Pacifastacus leniusculus*) on benthic macroinvertebrate community composition in English rivers and how these impacts affect the validity of using common biomonitoring scores for assessing water quality. My PhD combines fluvial geomorphology and ecology and aims to develop a model to predict sediment transport dynamics in rivers infested with signal crayfish.
+
+This website is an online portfolio of work undertaken as a part of my academic studies.
+
+PhD Geography, University of Nottingham
+======
+### "Predicting Sediment Transport Dynamics in Rivers Infested with Invasive Signal Crayfish (*Pacifastacus leniusculus*)"
+
+Funding: Full PhD Studentship from the University of Nottingham School of Geography and Faculty of Engineering
+
+Supervisors: [Dr. Matthew F. Johnson](https://www.nottingham.ac.uk/geography/people/m.johnson) (School of Geography), [Prof. Nicholas Dodd](https://www.nottingham.ac.uk/engineering/water-research/people/nicholas.dodd) (Department of Civil Engineering)
+            
+#### Research Summary
+Invertebrate animals are known to disturb river beds and banks, altering sediment stability and transport. However, inclusion of biological activity in models of fluvial sediment transport has not been widely investigated or applied. This project will determine the different biogeomorphological roles of invertebrate animals and categorise them into functional groupings of invertebrate-sediment interactions. The impact of invasive signal crayfish (*Pacifastacus leniusculus*) on fluvial sediment transport will then be considered and incorporation of their impacts into sediment transport modelling frameworks will be attempted. Due to their large body size, high abundance, and burrowing behaviour, signal crayfish have a particularly significant impact on sediment dynamics in UK rivers, making them a good example animal. This work aims to increase accuracy of sediment transport prediction in infested rivers, allow for the extrapolation of the impacts of future invasion scenarios, and provide an example modelling framework that can later be extended to other organisms.
+
+
 
 A data-driven personal website
 ======
