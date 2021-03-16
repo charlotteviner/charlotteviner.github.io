@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Charlotte Viner / Online Portfolio"
+locale                   : "en-UK"
+title                    : "Charlotte Viner"
 title_separator          : "-"
 name                     : &name "Charlotte Viner"
-description              : &description "PhD Researcher, University of Nottingham"
+description              : &description "PhD student in the School of Geography at the University of Nottingham. Researching the prediction of sediment transport dynamics in rivers infested with invasive signal crayfish (_Pacifastacus leniusculus_)."
 url                      : https://charlotteviner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charlotteviner/charlotteviner.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "charlotte.viner@nottingham.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
