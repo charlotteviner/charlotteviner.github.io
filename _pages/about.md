@@ -19,10 +19,9 @@ PhD Geography, University of Nottingham
 ### "Predicting Sediment Transport Dynamics in Rivers Infested with Invasive Signal Crayfish (*Pacifastacus leniusculus*)"
 
 Funding: Full PhD Studentship from the University of Nottingham School of Geography and Faculty of Engineering
-
 Supervisors: [Dr. Matthew F. Johnson](https://www.nottingham.ac.uk/geography/people/m.johnson) (School of Geography), [Prof. Nicholas Dodd](https://www.nottingham.ac.uk/engineering/water-research/people/nicholas.dodd) (Department of Civil Engineering)
             
-#### Research Summary
+### Research Summary
 Invertebrate animals are known to disturb river beds and banks, altering sediment stability and transport. However, inclusion of biological activity in models of fluvial sediment transport has not been widely investigated or applied. This project will determine the different biogeomorphological roles of invertebrate animals and categorise them into functional groupings of invertebrate-sediment interactions. The impact of invasive signal crayfish (*Pacifastacus leniusculus*) on fluvial sediment transport will then be considered and incorporation of their impacts into sediment transport modelling frameworks will be attempted. Due to their large body size, high abundance, and burrowing behaviour, signal crayfish have a particularly significant impact on sediment dynamics in UK rivers, making them a good example animal. This work aims to increase accuracy of sediment transport prediction in infested rivers, allow for the extrapolation of the impacts of future invasion scenarios, and provide an example modelling framework that can later be extended to other organisms.
 
 
