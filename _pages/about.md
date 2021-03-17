@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-After graduating with a BSc (Hons) in Environmental Geoscience from the University of Nottingham in 2017, I studied for a MSc in River Basin Dynamics and Management with Geographical Information Systems at the University of Leeds before returning to Nottingham to start my PhD in 2019. My research interests primarily focus on biogeomorphology - the intersection between geomorphology and ecology - and the role that animals take as ecosystem engineers in rivers.
+After graduating with a BSc (Hons) in Environmental Geoscience from the University of Nottingham in 2017, I studied for a MSc in River Basin Dynamics and Management with Geographical Information Systems at the University of Leeds before returning to Nottingham to start my PhD in 2019. My research interests primarily focus on biogeomorphology - the intersection between geomorphology and ecology - and the role that animals, specifically crayfish, take as ecosystem engineers in rivers.
 
 
 ### PhD Research Summary
