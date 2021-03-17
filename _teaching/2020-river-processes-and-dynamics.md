@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-river-processes-and-dynamics
 venue: "University of Nottingham, School of Geography"
-date: 2020
+date: 2020-10-01
 location: "Nottingham, UK"
 ---
 

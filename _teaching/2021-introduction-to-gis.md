@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-introduction-to-gis
 venue: "University of Nottingham, School of Geography"
-date: 2021
+date: 2021-02-01
 location: "Nottingham, UK"
 ---
 
