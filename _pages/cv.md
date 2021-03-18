@@ -10,21 +10,21 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * PhD Geography, University of Nottingham, 2023 (expected)
 * MSc River Basin Dynamics and Management with Geographical Information Systems, University of Leeds, 2019
 * BSc (Hons) Environmental Geoscience, University of Nottingham, 2017
 
 
 Work experience
-======
+------
 * March 2018: Work Placement
   * JBA Risk Management
   * Assisted in the creation of flood hazard maps with the global mapping team using ArcGIS.
 
 
 Skills
-======
+------
 * Geographical Information Systems: ArcGIS Online, ArcMap, QGIS
   * River catchment analysis
 * Programming
@@ -46,11 +46,11 @@ Skills
   * Use of petrological microscopes
   
 Teaching
-======
+------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Awards
-======
+------
 * British Hydrological Society, JBA Trust and Environment Agency MSc Studentship Award, 2017

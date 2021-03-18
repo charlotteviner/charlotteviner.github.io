@@ -8,4 +8,4 @@ date: 2020-10-01
 location: "Nottingham, UK"
 ---
 
-I was a demonstrator for the 2nd year undergraduate module *River Processes and Dynamics*, and I was repsonsible for running laboratory flume practicals to teach the students the principles of open channel hydraulics, sediment transport and incipient motion, and bedforms.
+I was a demonstrator for the 2nd year undergraduate module *River Processes and Dynamics*, and I was responsible for running laboratory flume practicals to teach the students the principles of open channel hydraulics, sediment transport and incipient motion, and bedforms.
