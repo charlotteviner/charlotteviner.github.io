@@ -1,17 +1,17 @@
 ---
-title: "BES Festival of Ecology 2020"
+title: "Year 2 PGR Poster Showcase"
 collection: talks
 type: "Poster"
-permalink: /talks/bes-festival-of-ecology-2020
-venue: "Virtual Conference"
-date: 2020-12-14
-location: "Online"
+permalink: /talks/year-2-poster
+venue: ""
+date: 2021-04-01
+location: ""
 ---
 
 ## Predicting Sediment Transport Dynamics in Rivers Infested with Invasive Signal Crayfish (*Pacifastacus leniusculus*)
 ### Charlotte E. Viner<sup>a</sup>, Matthew F. Johnson<sup>a</sup> and Nicholas Dodd<sup>b</sup>
 
-Presented at the British Ecological Society Festival of Ecology, 14-18 December 2020.
+Presented at the University of Nottingham School of Geography Year 2 PGR Showcase
 
 <img src="https://charlotteviner.github.io/images/Digging.gif" alt="Foraging">
 
