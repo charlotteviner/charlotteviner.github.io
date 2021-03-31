@@ -2,7 +2,7 @@
 title: "Year 2 PGR Poster Showcase"
 collection: talks
 type: "Poster"
-permalink: /presentations/year-2-poster
+permalink: /talks/year-2-poster
 venue: ""
 date: 2021-04-01
 location: ""
