@@ -19,7 +19,7 @@ Presented at the British Ecological Society Festival of Ecology, 14-18 December 
 
 **References**
 
-    1. Barry, J.J., Buffington, J.M. and King, J.G. 2004. A general power equation for predicting bed load transport rates in gravel bed rivers. *Water Resources Research*. **40**, W10401, doi: <a href="https://doi.org/10.1029/2004WR003190" target="_blank">10.1029/2004WR003190</a>.
+    1. Barry, J.J., Buffington, J.M. and King, J.G. 2004. A general power equation for predicting bed load transport rates in gravel bed rivers. *Water Resources Research*. **40**, W10401, doi: [10.1029/2004WR003190]("https://doi.org/10.1029/2004WR003190" target="_blank").
  
     2. Albertson, L.K., Sklar, L.S., Pontau, P., Dow, M. and Cardinale, B.J. 2014. A mechanistic model linking insect (Hydropsychidae) silk nets to incipient sediment motion in gravel-bedded streams. <i>Journal of Geophysical Research: Earth Surface</i>. <b>119</b>: 1833-1852, doi: <a href="https://doi.org/10.1002/2013JF003024" target="_blank">10.1002/2013JF003024</a>.
 
