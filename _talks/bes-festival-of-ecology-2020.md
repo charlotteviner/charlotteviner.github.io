@@ -16,3 +16,7 @@ Presented at the British Ecological Society Festival of Ecology, 14-18 December 
 
 ![Signal crayfish digging a gravel bed](images/Digging.gif "Digging")
 
+<img src="images/Digging.gif" alt="Foraging">
+
+<img src="images/Fighting.gif" alt="Fighting">
+
