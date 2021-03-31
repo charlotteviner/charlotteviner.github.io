@@ -14,5 +14,5 @@ location: ""
 
 Presented at the British Ecological Society Festival of Ecology, 14-18 December 2020.
 
-[Digging](images/Digging.gif "Digging")
+![Signal crayfish digging a gravel bed](images/Digging.gif "Digging")
 
