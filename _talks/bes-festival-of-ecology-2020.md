@@ -20,10 +20,11 @@ Below are the details of the poster I presented, including the videos to which I
 
 Presented at the British Ecological Society Festival of Ecology, 14-18 December 2020
 
-<img src="https://charlotteviner.github.io/images/Charlotte Viner Poster FINAL.pdf" alt="Poster" style="height: 1000px; width: 692px;>
+<center><img src="https://charlotteviner.github.io/images/Charlotte Viner Poster FINAL.pdf" alt="Poster"></center>
 
-**A signal crayfish foraging in a gravel bed, altering the orientation of the grains**
-<img src="https://charlotteviner.github.io/images/Digging.gif" alt="A signal crayfish foraging">
+<center><img src="https://charlotteviner.github.io/images/Digging.gif" alt="A signal crayfish foraging"></center>
+
+#### A signal crayfish foraging in a gravel bed, altering the orientation of the grains
 
 **Two signal crayfish fighting, causing increased fine sediment suspension**
 <img src="https://charlotteviner.github.io/images/Fighting.gif" alt="Two signal crayfish fighting">
