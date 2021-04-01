@@ -18,8 +18,8 @@ Education
 
 Work Experience
 ------
-**March 2018: Work Placement, JBA Risk Management**
-* Assisted in the creation of flood hazard maps with the global mapping team using ArcGIS.
+* *March 2018: Work Placement, JBA Risk Management*
+  * Assisted in the creation of flood hazard maps with the global mapping team using ArcGIS.
 
 
 Skills
