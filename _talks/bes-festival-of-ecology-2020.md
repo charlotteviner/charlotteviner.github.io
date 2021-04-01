@@ -11,14 +11,22 @@ redirect_from:
   - /festivalofecology2020.html
 ---
 
+The British Ecological Society's Festival of Ecology 2020 was the first conference I presented at as a PhD student. Due to the COVID-19 pandemic, the conference was held online. The poster I presented provides an outline of my proposed research, splitting my methods into three key components.
+
+Below are the details of the poster I presented, including the videos to which I linked on the poster.
+
 ## Predicting Sediment Transport Dynamics in Rivers Infested with Invasive Signal Crayfish (*Pacifastacus leniusculus*)
 ### Charlotte E. Viner<sup>a</sup>, Matthew F. Johnson<sup>a</sup> and Nicholas Dodd<sup>b</sup>
 
 Presented at the British Ecological Society Festival of Ecology, 14-18 December 2020
 
-<img src="https://charlotteviner.github.io/images/Digging.gif" alt="Foraging">
+<img src="https://charlotteviner.github.io/images/Charlotte Viner Poster FINAL.pdf" alt="Poster">
 
-<img src="https://charlotteviner.github.io/images/Fighting.gif" alt="Fighting">
+**A signal crayfish foraging in a gravel bed, altering the orientation of the grains**
+<img src="https://charlotteviner.github.io/images/Digging.gif" alt="A signal crayfish foraging">
+
+**Two signal crayfish fighting, causing increased fine sediment suspension**
+<img src="https://charlotteviner.github.io/images/Fighting.gif" alt="Two signal crayfish fighting">
 
 **References**
 
