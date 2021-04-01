@@ -16,11 +16,11 @@ Education
 * BSc (Hons) Environmental Geoscience, University of Nottingham, 2017
 
 
-Work experience
+Work Experience
 ------
-* March 2018: Work Placement
-  * JBA Risk Management
-  * Assisted in the creation of flood hazard maps with the global mapping team using ArcGIS.
+**March 2018: Work Placement**
+*JBA Risk Management*
+* Assisted in the creation of flood hazard maps with the global mapping team using ArcGIS.
 
 
 Skills
@@ -45,6 +45,12 @@ Skills
   * Use of laboratory flumes for open-channel hydraulics and sediment transport experiments
   * Use of petrological microscopes
   
+Presentations
+------
+  <ul>{% for post in site.talks %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Teaching
 ------
   <ul>{% for post in site.teaching %}
