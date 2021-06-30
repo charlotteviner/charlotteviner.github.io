@@ -18,7 +18,7 @@ Education
 
 Work Experience
 ------
-* April - June 2021: Research Assistant, River Leen Project, [Urban Flood Resilience Research Project](http://www.urbanfloodresilience.ac.uk/index.aspx){:target="_blank"}
+* April - June 2021: Research Assistant, River Leen Project, [Urban Flood Resilience Research Project](http://www.urbanfloodresilience.ac.uk/index.aspx){:target="_blank"}\
   Duties included:
   * Fieldwork - invertebrate sampling, water sampling, river habitat surveying
   * Laboratory work - water quality analysis (soluble reactive phosphorus, ammonium, ion chromatography)
